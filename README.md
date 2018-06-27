@@ -1,4 +1,4 @@
-# APP001: URPG Discord Utils Branch Test
+# APP001: URPG Discord Utils
 Discord Utilities used by the Pokemon Ultra Role Playing Game
 
 Welcome to the Git repository for APP001: URPG Discord Utils.
