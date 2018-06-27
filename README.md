@@ -5,7 +5,7 @@ Welcome to the Git repository for APP001: URPG Discord Utils.
 
 Reach out to Elrond ([[PWN](http://forums.petalburgwoods.com/member.php/7050-Elrond)] | [[PXR](http://www.pokemoncrossroads.com/forum/member.php?5531-Elrond)]) to join the project! 
 
-##Setup##
+## Setup ##
 
 1. Download Git Bash, available [here](https://git-scm.com/downloads), or your favorite Git client. (The rest of these steps will assume you are using Git Bash, but if you have another preferred Git client, you've probably got the skills to transcribe these steps for your own program.)
 
